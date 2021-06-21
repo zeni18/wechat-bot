@@ -1,0 +1,22 @@
+{
+  "name": "wechat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeni18/wechat-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeni18/wechat-bot/issues"
+  },
+  "homepage": "https://github.com/zeni18/wechat-bot#readme",
+  "dependencies": {
+    "wechaty": "^0.60.12"
+  }
+}
